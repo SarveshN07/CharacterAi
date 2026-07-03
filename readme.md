@@ -1,3 +1,5 @@
+
+Live : https://characterai-i5hk.onrender.com/
 ## Setup Instructions
 
 ### Prerequisites
